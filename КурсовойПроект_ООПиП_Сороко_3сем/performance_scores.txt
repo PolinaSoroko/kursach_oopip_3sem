@@ -1,0 +1,6 @@
+d|30,90
+ivan_dev|58,65
+login1|53,00
+maria_marketing|19,60
+new_employee|40,05
+petr_dev|31,15
